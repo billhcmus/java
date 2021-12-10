@@ -13,7 +13,7 @@
         <vertx.version>3.9.1</vertx.version>
         <vertx.grpc.version>1.25.0</vertx.grpc.version>
         <lombok.version>1.18.12</lombok.version>
-        <log4j.version>2.12.1</log4j.version>
+        <log4j.version>2.15.0</log4j.version>
         <disruptor.version>3.4.2</disruptor.version>
         <snakeyaml.version>1.21</snakeyaml.version>
         <hikariCP.version>3.3.1</hikariCP.version>
