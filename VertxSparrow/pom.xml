@@ -15,7 +15,7 @@
         <lombok.version>1.18.12</lombok.version>
         <log4j.version>2.17.1</log4j.version>
         <disruptor.version>3.4.2</disruptor.version>
-        <snakeyaml.version>1.21</snakeyaml.version>
+        <snakeyaml.version>1.32</snakeyaml.version>
         <hikariCP.version>3.3.1</hikariCP.version>
         <mysql.version>8.0.11</mysql.version>
         <micrometer.version>1.1.4</micrometer.version>
